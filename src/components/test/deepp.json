@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_deepps",
+  "info": {
+    "displayName": "Deepp"
+  },
+  "options": {},
+  "attributes": {
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "course.material-links"
+    }
+  }
+}

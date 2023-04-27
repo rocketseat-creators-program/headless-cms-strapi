@@ -1,0 +1,35 @@
+{
+  "name": "strapi-course",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/plugin-documentation": "^4.7.1",
+    "@strapi/plugin-i18n": "4.7.1",
+    "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/provider-email-amazon-ses": "^4.8.2",
+    "@strapi/provider-upload-aws-s3": "^4.7.1",
+    "@strapi/strapi": "4.7.1",
+    "mysql": "2.18.1",
+    "strapi-plugin-entity-relationship-chart": "^4.1.0",
+    "strapi-plugin-populate-deep": "^2.0.0"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "8c61c7c9-4919-44f8-9691-5e481b73fbe1"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

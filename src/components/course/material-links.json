@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_course_material_links",
+  "info": {
+    "displayName": "materialLinks"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

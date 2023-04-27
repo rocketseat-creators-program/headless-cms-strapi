@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_global_addresses",
+  "info": {
+    "displayName": "Address"
+  },
+  "options": {},
+  "attributes": {
+    "cep": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "complement": {
+      "type": "string"
+    }
+  }
+}
